@@ -1,6 +1,7 @@
 ### Hi there  👋, This is Asiful
 
 #### 💼 Software Engineer, QA at Graaho
+#### 👨‍🏫 Former Teaching Assistant at North South University
 #### ⭕Machine Learning Enthusiast ⭕ Software Developer⭕ Full-Stack Development⭕ Software Quality Assurance
 ![292331998_5237160756331840_4398075985331050670_n](https://github.com/sheikh-asiful-islam/sheikh-asiful-islam/assets/51376551/d158b5dc-6acf-4712-b5b2-51c254e9a2d6)
 
