@@ -5,10 +5,11 @@
 #### 👨‍🏫 Former Coding Teacher at Light Of Hope
 
 #### ⭕Machine Learning Enthusiast ⭕ Software Developer⭕ Full-Stack Development⭕ Software Quality Assurance
+## 🎓I have completed my BSc in Computer Science and Engineering with prestigious Distinction from North South University.
 ![292331998_5237160756331840_4398075985331050670_n](https://github.com/sheikh-asiful-islam/sheikh-asiful-islam/assets/51376551/d158b5dc-6acf-4712-b5b2-51c254e9a2d6)
 
 
-## 🎓I have completed my BSc in Computer Science and Engineering with prestigious Distinction from North South University.
+
 
 💻I excel in Software Development, Artificial Intelligence, Machine Learning, Full-Stack development, Software Quality Assurance with expertise in multiple programming languages, frameworks, and technologies. Whether working independently or as part of a team, I have a keen eye for detail and a commitment to delivering error-free code that meets project specifications and timelines. I am also experienced in agile methodologies and thrive in fast-paced, collaborative environments 💻
 
