@@ -17,7 +17,7 @@
 ## :notebook_with_decorative_cover: Skills:
 ## :ballot_box_with_check:   Programming Languages: C/ C++/ JAVA/ Python
 ## :ballot_box_with_check:   Web: HTML5/ CSS/ Bootstrap/ Javascript/ NodeJS /AJAX
-## :ballot_box_with_check:   SQA: Test Case Development/ Test Rail/ QASR/ JIRA/ Manual Testing/  Bug Reporting/ Black Box Testing/ White Box Testing/ API Testing/ Postman/ Jmeter/ Selenium With Junit/ Selenium with TestNG/ T
+## :ballot_box_with_check:   SQA: Test Case Development/ Test Rail/ QASR/ JIRA/ Manual Testing/  Bug Reporting/ Black Box Testing/ White Box Testing/ API Testing/ Postman/ Jmeter/ Selenium With Junit/ Selenium with TestNG
 ## :ballot_box_with_check:   Database: MySQL / SQL/ MongoDB/ SQL server/ XAMPP
 ## :ballot_box_with_check:   Others: Machine Learning / OOP/ JIRA/ Figma/ Cisco Packet Tracer/ Wireshark
 
